@@ -25,8 +25,7 @@ SECRET_KEY = 's4zp^70g-tlr6lu(=i%$q7d49sis-hjwart$&+=3y70#j@#h5n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-#ALLOWED_HOSTS = ['127.0.0.1', '<твоё_имя_пользователя>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'vipmaster1.pythonanywhere.com']
 
 # Application definition
 
